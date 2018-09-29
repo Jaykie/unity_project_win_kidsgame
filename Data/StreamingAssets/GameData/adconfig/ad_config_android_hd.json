@@ -1,0 +1,22 @@
+{
+    "platform": [
+        {
+            "source": "gdt",
+            "appid": "0",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0"
+        },
+        {
+            "source": "xiaomi",
+            "appname": "0",
+            "appid": "0",
+            "appkey": "0",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "platform": [
+        {
+            "source": "gdt",
+            "appname": "儿童学形状颜色ios",
+            "appid": "1106614415",
+            "key_splash": "6080933060725818",
+            "key_splash_insert": "9040430020921973",
+            "key_insert": "9040430020921973",
+            "key_banner": "2030535070722887"
+        },
+        {
+            "source": "inmobi",
+            "appname": " 宝宝汉字园ios",
+            "appid": "18da910b826940e1abbb916e69dda1f2",
+            "key_splash": "1479236195364",
+            "key_splash_insert": "1479236195364",
+            "key_banner": "1523340159464",
+            "key_insert": "1479236195364",
+            "key_video": "1524347726172"
+        }
+    ]
+}

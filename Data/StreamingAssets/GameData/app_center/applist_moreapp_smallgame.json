@@ -1,0 +1,56 @@
+{
+    "type": "更多应用",
+    "app": [
+        {
+            "title": "开心拼图乐",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/smallgame/pintu/happy/ad/ad_1024x500.png",
+            "PACKAGE": {
+                "ios": "com.moonma.happypintu",
+                "android": "com.moonma.happypintu"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1195409161?mt=8",
+                "android": "https://www.taptap.com/app/35536"
+            },
+            "APPID": {
+                "appstore": "1195409161",
+                "taptap": "35536"
+            }
+        },
+        {
+            "title": "疯狂填色绘本",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/smallgame/fillcolor/fillcolor/ad/ad_1024x500.png",
+            "PACKAGE": {
+                "ios": "com.moonma.fillcolor",
+                "android": "com.moonma.fillcolor"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1185479107?mt=8",
+                "android": "https://www.taptap.com/app/33862"
+            },
+            "APPID": {
+                "appstore": "1185479107",
+                "taptap": "33862"
+            }
+        },
+        {
+            "title": "超级数学大师",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/smallgame/mathmaster/ad/1024x500.png",
+            "PACKAGE": {
+                "ios": "com.moonma.mathmaster",
+                "android": "com.moonma.mathmaster"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1104615904?mt=8",
+                "android": "https://www.taptap.com/app/36229"
+            },
+            "APPID": {
+                "appstore": "1104615904",
+                "taptap": "36229"
+            }
+        }
+    ]
+}

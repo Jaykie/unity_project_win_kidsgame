@@ -1,0 +1,15 @@
+{
+    "APP_NAME_KEYWORD": "shapecolor",
+    "APP_TYPE": "shapecolor",
+    "NO_AD_DAY": "1",
+    "HAVE_SHOP": false,
+    "HAVE_IAP": false,
+    "APP_FOR_KIDS": true,
+    "SHARE_APP_URL": "http://www.mooncore.cn/moonma/kidsgame/shapecolor/shapecolor/share/url.html",
+    "IAP": {
+        "IAP_PRODUCT0": "gold0",
+        "IAP_PRODUCT1": "gold1",
+        "IAP_PRODUCT2": "gold2"
+    },
+    "channel_android": "xiaomi"
+}

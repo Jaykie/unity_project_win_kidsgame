@@ -1,0 +1,46 @@
+{
+    "APPID": {
+        "xiaomi": "0",
+        "taptap": "66930",
+        "huawei": "100270155"
+    },
+    "APPTONGJI_ID": "5a067568b27b0a661f0002ef",
+    "SHARE": {
+        "HAVE_SHARE": false,
+        "umeng": {
+            "id": "5a067568b27b0a661f0002ef",
+            "key": "0"
+        },
+        "platform": [
+            {
+                "source": "weixin",
+                "id": "0",
+                "key": "0"
+            },
+            {
+                "source": "qq",
+                "id": "0",
+                "key": "0"
+            },
+            {
+                "source": "weibo",
+                "id": "0",
+                "key": "0"
+            }
+        ]
+    },
+    "PAY": {
+        "platform": [
+            {
+                "source": "weixin",
+                "id": "0",
+                "key": "0"
+            },
+            {
+                "source": "qq",
+                "id": "0",
+                "key": "0"
+            }
+        ]
+    }
+}

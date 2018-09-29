@@ -1,0 +1,23 @@
+KEY,CN,EN
+SHAPE_TITLE_sanjiaoxing,三角形,Triangle
+SHAPE_TITLE_zhengfangxing,正方形,Square
+SHAPE_TITLE_changfangxing,长方形,Rectangle
+SHAPE_TITLE_lingxing,菱形,Diamond
+SHAPE_TITLE_tixing,梯形,Trapezoid
+SHAPE_TITLE_yuan,圆,Circular
+SHAPE_TITLE_tuoyuan,椭圆,Ellipse
+SHAPE_TITLE_banyuan,半圆,Semi-circle
+SHAPE_TITLE_wubianxing,五边形,Pentagon
+SHAPE_TITLE_wujiaoxing,五角星,Five-pointed star
+SHAPE_TITLE_xinxing,心形,Heart-shaped
+COLOR_TITLE_red,红色的,Red
+COLOR_TITLE_blue,蓝色的,Blue
+COLOR_TITLE_yellow,黄色的,Yellow
+COLOR_TITLE_green,绿色的,Green
+COLOR_TITLE_orange,橙色的,Orange
+COLOR_TITLE_pink,粉色的,Pink
+COLOR_TITLE_purple,紫色的,Purple
+COLOR_TITLE_gray,灰色的,Gray
+COLOR_TITLE_brown,棕色的,Brown
+COLOR_TITLE_black,黑色的,Black
+COLOR_TITLE_white,白色的,White

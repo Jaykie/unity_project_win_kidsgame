@@ -1,0 +1,71 @@
+{
+    "priority_banner": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "inmobi"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_insert": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "mobvista"
+        },
+        {
+            "source": "inmobi"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_splash": [
+        {
+            "source": "gdt"
+        }
+    ],
+    "priority_splash_insert": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "mobvista"
+        },
+        {
+            "source": "inmobi"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_video": [
+        {
+            "source": "unity"
+        },
+        {
+            "source": "adview"
+        },
+        {
+            "source": "mobvista"
+        }
+    ],
+    "priority_native": [
+        {
+            "source": "gdt"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "type": "首页推荐",
+    "app": [
+        {
+            "title": "儿童学形状颜色",
+            "pic": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/c3/25/e6c325c8-afe0-5a52-1f59-0e432d8f8651/AppIcon-1x_U007emarketing-85-220-9.png/230x0w.jpg",
+            "PACKAGE": {
+                "ios": "com.moonma.shapecolor",
+                "android": "com.moonma.shapecolor"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1303020002?mt=8",
+                "android": "http://app.mi.com/details?id=com.moonma.shapecolor"
+            },
+            "APPID": {
+                "appstore": "1303020002",
+                "taptap": "0"
+            }
+        },
+        {
+            "title": "儿童动物填色画画",
+            "pic": "https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/6f/74/5d/6f745dfa-e344-b902-7dd8-e4ff10da8439/mzl.cdcttzeg.png/230x0w.jpg",
+            "PACKAGE": {
+                "ios": "com.moonma.fillcoloranimal",
+                "android": "com.moonma.fillcoloranimal"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1281222355?mt=8",
+                "android": "http://app.mi.com/details?id=com.moonma.fillcoloranimal"
+            },
+            "APPID": {
+                "appstore": "1281222355",
+                "taptap": "0"
+            }
+        },
+        {
+            "title": "宝宝农场找找乐HD",
+            "pic": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/e6/38/28/e63828cf-1cb9-ce41-bdd9-733dd8f315bc/AppIcon-1x_U007emarketing-85-220-9.png/230x0w.jpg",
+            "PACKAGE": {
+                "ios": "com.moonma.com.moonma.nongchangfind.pad",
+                "android": "com.moonma.com.moonma.nongchangfind.pad"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1269973032?mt=8",
+                "android": "http://app.mi.com/details?id=com.moonma.nongchangfind.pad"
+            },
+            "APPID": {
+                "appstore": "1269973032",
+                "taptap": "0"
+            }
+        },
+        {
+            "title": "儿童交通拼图",
+            "pic": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/64/50/15/64501519-e869-01db-a141-eb201f3d4e4f/AppIcon-1x_U007emarketing-85-220-9.png/230x0w.jpg",
+            "PACKAGE": {
+                "ios": "com.moonma.com.moonma.carpintu",
+                "android": "com.moonma.com.moonma.carpintu"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1176429158?mt=8",
+                "android": "http://app.mi.com/details?id=com.moonma.carpintu"
+            },
+            "APPID": {
+                "appstore": "1176429158",
+                "taptap": "0"
+            }
+        }
+    ]
+}

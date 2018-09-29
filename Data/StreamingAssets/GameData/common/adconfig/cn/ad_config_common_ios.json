@@ -1,0 +1,52 @@
+{
+    "ad_source": {
+        "source_splash": "admob",
+        "source_splash_insert": "admob",
+        "source_insert": "admob",
+        "source_banner": "admob",
+        "source_video": "unity"
+    },
+    "platform": [
+        {
+            "source": "admob",
+            "appname": "gameUnity",
+            "appid": "ca-app-pub-9172948412628142~2786113316",
+            "key_splash": "ca-app-pub-9172948412628142/7216312919",
+            "key_splash_insert": "ca-app-pub-9172948412628142/7216312919",
+            "key_banner": "ca-app-pub-9172948412628142/4262846516",
+            "key_insert": "ca-app-pub-9172948412628142/7216312919",
+            "key_video": "ca-app-pub-9172948412628142/5204354407"
+        },
+        {
+            "source": "unity",
+            "appname": "bounce",
+            "appid": "1345392",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0",
+            "key_video": "0"
+        },
+        {
+            "source": "adview",
+            "appname": "儿童写汉字ios",
+            "appid": "SDK20180927090352pw8f0wpcv4git55",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0",
+            "key_video": "0"
+        },
+        {
+            "source": "mobvista",
+            "appname": "儿童植物拼图ios",
+            "appid": "104152",
+            "appkey": "1c73843028601c9171e30f46ab0f21d3",
+            "key_splash": "0",
+            "key_banner": "0",
+            "key_insert": "48889",
+            "key_insert_video": "48491",
+            "key_video": "48431"
+        }
+    ]
+}

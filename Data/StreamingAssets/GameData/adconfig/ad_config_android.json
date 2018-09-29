@@ -1,0 +1,24 @@
+{
+    "platform": [
+        {
+            "source": "gdt",
+            "appname": "儿童学形状颜色androi",
+            "appid": "1106800681",
+            "key_splash": "5080237333043431",
+            "key_splash_insert": "2070836323242490",
+            "key_insert": "2070836323242490",
+            "key_native": "0",
+            "key_banner": "7060537343548379"
+        },
+        {
+            "source": "xiaomi",
+            "appname": "儿童学形状颜色",
+            "appid": "2882303761517632115",
+            "appkey": "0",
+            "key_splash": "da8b79d32ef7afb67404418949e867fb",
+            "key_splash_insert": "05721f40d1367274c864ee183680f555",
+            "key_banner": "746d7c201126903dec86e67db1430173",
+            "key_insert": "05721f40d1367274c864ee183680f555"
+        }
+    ]
+}

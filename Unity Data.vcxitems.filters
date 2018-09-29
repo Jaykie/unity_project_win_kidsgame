@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Data">
+      <UniqueIdentifier>{94f1bc7c-c713-495c-87ea-74fb5440bad4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono">
+      <UniqueIdentifier>{23af1ddb-e2a4-4d90-92ee-4f4259f44414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\2.0">
+      <UniqueIdentifier>{be57a19b-102f-4283-9a5f-b1ac42823bec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\2.0\Browsers">
+      <UniqueIdentifier>{c1fe7a52-509a-44d6-9d73-0996d88008e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\4.0">
+      <UniqueIdentifier>{e7b0f0b6-0fe7-4dbc-8936-fd669e52e1e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\4.0\Browsers">
+      <UniqueIdentifier>{37558617-a176-453d-9bdf-3d67f45421e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\4.5">
+      <UniqueIdentifier>{005f798b-28c6-4488-85f4-755abcdb558d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\4.5\Browsers">
+      <UniqueIdentifier>{0c9ec830-9372-4c87-8bcb-ec4afe749dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc\mono\mconfig">
+      <UniqueIdentifier>{df4587ba-01fe-4b06-8e88-b95172487b0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\Metadata">
+      <UniqueIdentifier>{1c16b382-6dd4-48fa-a829-d58d4d8d0477}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\Resources">
+      <UniqueIdentifier>{75c3ea6d-564c-47c2-bef7-f6295f246397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\Resources">
+      <UniqueIdentifier>{79b9bf7d-4eef-4d16-a338-8d9f44e49ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData">
+      <UniqueIdentifier>{112e5bc5-bdf3-4a2b-8f08-35e41a732230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\adconfig">
+      <UniqueIdentifier>{47f4e471-2700-47f8-95d0-d755ef053455}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\app_center">
+      <UniqueIdentifier>{82b93809-6686-416f-a85f-a67a19d065eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common">
+      <UniqueIdentifier>{8880e928-cc52-44f9-a81d-4e3769dab378}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common\adconfig\cn">
+      <UniqueIdentifier>{ac57390e-fcd3-4ddb-9b34-c9e0f0b2e9fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common\adconfig\other">
+      <UniqueIdentifier>{d5865bc7-7873-4995-9cd9-5be078f4f74c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common\app_center">
+      <UniqueIdentifier>{59d01dca-241c-46f4-8b44-5d0369577c54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common\language">
+      <UniqueIdentifier>{bce6cd5d-1488-4ea9-b3c7-26e6a6a930f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\config">
+      <UniqueIdentifier>{1cc6ab23-23c8-4b8a-b209-2664987143a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\language">
+      <UniqueIdentifier>{3027d731-02c5-494f-92f6-761edd391420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\screenshot">
+      <UniqueIdentifier>{f051a972-2fec-478c-bd63-b5c5ce0c1156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\screenshot\bg">
+      <UniqueIdentifier>{54a04b8d-828e-410a-975f-067d97196cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\screenshot\icon">
+      <UniqueIdentifier>{da31c6be-2a2a-4e7f-a247-f536f0bf9870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\screenshot\language">
+      <UniqueIdentifier>{76b8b8a1-0f4a-42d2-b5da-d1eeada63cc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\common">
+      <UniqueIdentifier>{d3adeb6f-e478-4cb9-8556-1ca5b370f91f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\guanka">
+      <UniqueIdentifier>{339251fa-86e4-4d97-b23b-f278b50221be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\banyuan">
+      <UniqueIdentifier>{8c68c5b1-270f-42cd-b868-66cdaf0635cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\bg">
+      <UniqueIdentifier>{192df02a-55e5-4921-a281-393d6ceb5d0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\changfangxing">
+      <UniqueIdentifier>{c9e64949-3212-4e83-be0c-966f26ce4136}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\lingxing">
+      <UniqueIdentifier>{1d2e1b8b-34ab-4fdc-80df-207e7748bdf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\sanjiaoxing">
+      <UniqueIdentifier>{8dd726e7-e0c1-4047-b8d3-9db88061fe43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\tixing">
+      <UniqueIdentifier>{99e6d978-6ab1-409d-ab71-3393c7c0747b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\tuoyuan">
+      <UniqueIdentifier>{5397107f-a8e2-4d25-b950-9f3e2f43a5ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\wubianxing">
+      <UniqueIdentifier>{bc1867ec-2762-475f-b6de-da5bd8c4168f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\wujiaoxing">
+      <UniqueIdentifier>{9cbb91e3-20a2-4276-95e0-6eb64825312c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\xinxing">
+      <UniqueIdentifier>{9f3b9d33-4604-4983-bf39-f2dddd290a97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\yuan">
+      <UniqueIdentifier>{870263e8-7ff0-4285-ba52-489933e0b12a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image\zhengfangxing">
+      <UniqueIdentifier>{ac8da670-3b8a-4b70-a0ce-8e4a967b1bb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\language">
+      <UniqueIdentifier>{2a6b7035-3a45-40d1-9149-f4e66dfbd25e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\place">
+      <UniqueIdentifier>{92d4958b-e60e-422b-b38d-9ca08500ad20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\place\language">
+      <UniqueIdentifier>{032c8c77-d558-48f2-92d1-226fbde80ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data\etc">
+      <UniqueIdentifier>{ac3bf0d4-22fa-43f6-a59d-f4189a4b9a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\il2cpp_data">
+      <UniqueIdentifier>{4532117b-7fdd-4a0b-9c69-ad19b6ad1304}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets">
+      <UniqueIdentifier>{5281c3b4-24e9-4ca1-b367-4836dc07e0ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameData\common\adconfig">
+      <UniqueIdentifier>{6afafefd-08f6-4918-ac36-c4533333cb81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes">
+      <UniqueIdentifier>{ea06ba98-63ad-4360-880f-36aaa114d839}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data\StreamingAssets\GameRes\image">
+      <UniqueIdentifier>{a48aaf02-4b02-4935-b4d0-1386db84ac7b}</UniqueIdentifier>
+    </Filter>
+    <Resource Include="$(MSBuildThisFileDirectory)Resource.res" />
+    <None Include="$(MSBuildThisFileDirectory)StoreManifest.xml" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)UnityGenerated.cpp" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)UnityGenerated.h" />
+    <None Include="$(MSBuildThisFileDirectory)Data\boot.config">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\globalgamemanagers">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\globalgamemanagers.assets">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\level0">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\resources.assets">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\resources.assets.resS">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\resources.resource">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\sharedassets0.assets">
+      <Filter>Data</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\browscap.ini">
+      <Filter>Data\il2cpp_data\etc\mono</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\config">
+      <Filter>Data\il2cpp_data\etc\mono</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <Filter>Data\il2cpp_data\etc\mono\2.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <Filter>Data\il2cpp_data\etc\mono\2.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <Filter>Data\il2cpp_data\etc\mono\2.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\2.0\web.config">
+      <Filter>Data\il2cpp_data\etc\mono\2.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <Filter>Data\il2cpp_data\etc\mono\2.0\Browsers</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <Filter>Data\il2cpp_data\etc\mono\4.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <Filter>Data\il2cpp_data\etc\mono\4.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <Filter>Data\il2cpp_data\etc\mono\4.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.0\web.config">
+      <Filter>Data\il2cpp_data\etc\mono\4.0</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <Filter>Data\il2cpp_data\etc\mono\4.0\Browsers</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <Filter>Data\il2cpp_data\etc\mono\4.5</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <Filter>Data\il2cpp_data\etc\mono\4.5</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <Filter>Data\il2cpp_data\etc\mono\4.5</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.5\web.config">
+      <Filter>Data\il2cpp_data\etc\mono\4.5</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <Filter>Data\il2cpp_data\etc\mono\4.5\Browsers</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <Filter>Data\il2cpp_data\etc\mono\mconfig</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\Metadata\global-metadata.dat">
+      <Filter>Data\il2cpp_data\Metadata</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <Filter>Data\il2cpp_data\Resources</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <Filter>Data\il2cpp_data\Resources</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\il2cpp_data\Resources\System.dll-resources.dat">
+      <Filter>Data\il2cpp_data\Resources</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\Resources\unity default resources">
+      <Filter>Data\Resources</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\Resources\unity_builtin_extra">
+      <Filter>Data\Resources</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\startup.png">
+      <Filter>Data\StreamingAssets\GameData</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\adconfig\ad_config_android.json">
+      <Filter>Data\StreamingAssets\GameData\adconfig</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\adconfig\ad_config_android_hd.json">
+      <Filter>Data\StreamingAssets\GameData\adconfig</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\adconfig\ad_config_ios.json">
+      <Filter>Data\StreamingAssets\GameData\adconfig</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\adconfig\ad_config_ios_hd.json">
+      <Filter>Data\StreamingAssets\GameData\adconfig</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\app_center\applist_home_kids.json">
+      <Filter>Data\StreamingAssets\GameData\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\app_center\applist_home_smallgame.json">
+      <Filter>Data\StreamingAssets\GameData\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\app_center\applist_moreapp_kids.json">
+      <Filter>Data\StreamingAssets\GameData\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\app_center\applist_moreapp_smallgame.json">
+      <Filter>Data\StreamingAssets\GameData\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\channel.json">
+      <Filter>Data\StreamingAssets\GameData\common</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\cn\ad_config_common_android.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\cn</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\cn\ad_config_common_ios.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\cn</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\cn\ad_config_common_win.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\cn</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\cn\ad_config_priority_android.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\cn</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\cn\ad_config_priority_ios.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\cn</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\other\ad_config_common_android.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\other</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\other\ad_config_common_ios.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\other</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\other\ad_config_common_win.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\other</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\other\ad_config_priority_android.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\other</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\adconfig\other\ad_config_priority_ios.json">
+      <Filter>Data\StreamingAssets\GameData\common\adconfig\other</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\app_center\applist_home_kids.json">
+      <Filter>Data\StreamingAssets\GameData\common\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\app_center\applist_home_minigame.json">
+      <Filter>Data\StreamingAssets\GameData\common\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\app_center\applist_moreapp_kids.json">
+      <Filter>Data\StreamingAssets\GameData\common\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\app_center\applist_moreapp_minigame.json">
+      <Filter>Data\StreamingAssets\GameData\common\app_center</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\common\language\language.csv">
+      <Filter>Data\StreamingAssets\GameData\common\language</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\config\config_android.json">
+      <Filter>Data\StreamingAssets\GameData\config</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\config\config_android_hd.json">
+      <Filter>Data\StreamingAssets\GameData\config</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\config\config_common.json">
+      <Filter>Data\StreamingAssets\GameData\config</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\config\config_ios.json">
+      <Filter>Data\StreamingAssets\GameData\config</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\config\config_ios_hd.json">
+      <Filter>Data\StreamingAssets\GameData\config</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\language\language.csv">
+      <Filter>Data\StreamingAssets\GameData\language</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ColorItem.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\colorpens.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\color_board.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\color_pan.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_0.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_1.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_2.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_3.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_4.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_5.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemBg_6.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\ItemRectBg.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\pen.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\PlayItemBg.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg0.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg1.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg2.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg3.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg4.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\bg\bg_adhome.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\bg.jpg">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\color.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\human.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\icon_hd_corner.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\icon_kuang.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\icon\pen.png">
+      <Filter>Data\StreamingAssets\GameData\screenshot\icon</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameData\screenshot\language\language.csv">
+      <Filter>Data\StreamingAssets\GameData\screenshot\language</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\common\bg.png">
+      <Filter>Data\StreamingAssets\GameRes\common</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\guanka\color.json">
+      <Filter>Data\StreamingAssets\GameRes\guanka</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\guanka\guanka_list_place0.json">
+      <Filter>Data\StreamingAssets\GameRes\guanka</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\guanka\shape.json">
+      <Filter>Data\StreamingAssets\GameRes\guanka</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\banyuan\banyuan.png">
+      <Filter>Data\StreamingAssets\GameRes\image\banyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\banyuan\banyuan_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\banyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\banyuan\banyuan_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\banyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg.json">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg0.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg1.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg2.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg3.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg4.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg5.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg6.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg7.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\bg\bg8.png">
+      <Filter>Data\StreamingAssets\GameRes\image\bg</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\changfangxing\changfangxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\changfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\changfangxing\changfangxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\changfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\changfangxing\changfangxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\changfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\lingxing\lingxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\lingxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\lingxing\lingxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\lingxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\lingxing\lingxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\lingxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\sanjiaoxing\sanjiaoxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\sanjiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\sanjiaoxing\sanjiaoxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\sanjiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\sanjiaoxing\sanjiaoxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\sanjiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tixing\tixing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tixing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tixing\tixing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tixing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tixing\tixing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tixing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tuoyuan\tuoyuan.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tuoyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tuoyuan\tuoyuan_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tuoyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\tuoyuan\tuoyuan_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\tuoyuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wubianxing\wubianxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wubianxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wubianxing\wubianxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wubianxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wubianxing\wubianxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wubianxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wujiaoxing\wujiaoxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wujiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wujiaoxing\wujiaoxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wujiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\wujiaoxing\wujiaoxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\wujiaoxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\xinxing\xinxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\xinxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\xinxing\xinxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\xinxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\xinxing\xinxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\xinxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\yuan\yuan.png">
+      <Filter>Data\StreamingAssets\GameRes\image\yuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\yuan\yuan_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\yuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\yuan\yuan_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\yuan</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\zhengfangxing\zhengfangxing.png">
+      <Filter>Data\StreamingAssets\GameRes\image\zhengfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\zhengfangxing\zhengfangxing_inner.png">
+      <Filter>Data\StreamingAssets\GameRes\image\zhengfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\image\zhengfangxing\zhengfangxing_outer.png">
+      <Filter>Data\StreamingAssets\GameRes\image\zhengfangxing</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\language\language.csv">
+      <Filter>Data\StreamingAssets\GameRes\language</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\place\place_list.json">
+      <Filter>Data\StreamingAssets\GameRes\place</Filter>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\StreamingAssets\GameRes\place\language\language.csv">
+      <Filter>Data\StreamingAssets\GameRes\place\language</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(OutDir)GameAssembly.dll" />
+    <None Include="$(OutDir)GameAssembly.pdb" />
+    <None Include="$(OutDir)SymbolMap" />
+    <None Include="$(OutDir)Common.dll" />
+  </ItemGroup>
+</Project>

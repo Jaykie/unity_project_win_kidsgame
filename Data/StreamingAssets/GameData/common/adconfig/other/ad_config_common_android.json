@@ -1,0 +1,51 @@
+{
+    "ad_source": {
+        "source_splash": "admob",
+        "source_splash_insert": "admob",
+        "source_insert": "admob",
+        "source_banner": "admob",
+        "source_video": "unity"
+    },
+    "platform": [
+        {
+            "source": "admob",
+            "appname": "儿童游戏(gmail)android",
+            "appid": "ca-app-pub-2859989631625711~4105691817",
+            "key_splash": "ca-app-pub-2859989631625711/8319612451",
+            "key_splash_insert": "ca-app-pub-2859989631625711/8319612451",
+            "key_banner": "ca-app-pub-2859989631625711/6268164183",
+            "key_insert": "ca-app-pub-2859989631625711/8319612451"
+        },
+        {
+            "source": "unity",
+            "appname": "bounce",
+            "appid": "1345394",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0",
+            "key_video": "0"
+        },
+        {
+            "source": "adview",
+            "appname": "儿童写汉字android",
+            "appid": "SDK2018090209050273iba82ap91d9iu",
+            "key_splash": "0",
+            "key_splash_insert": "0",
+            "key_banner": "0",
+            "key_insert": "0",
+            "key_video": "0"
+        },
+        {
+            "source": "mobvista",
+            "appname": "儿童植物拼图android",
+            "appid": "104168",
+            "appkey": "1c73843028601c9171e30f46ab0f21d3",
+            "key_splash": "0",
+            "key_banner": "0",
+            "key_insert": "48821",
+            "key_insert_video": "48494",
+            "key_video": "48495"
+        }
+    ]
+}

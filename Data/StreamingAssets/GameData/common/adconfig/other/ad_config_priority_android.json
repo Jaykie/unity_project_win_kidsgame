@@ -1,0 +1,83 @@
+{
+    "priority_banner": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "xiaomi"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_insert": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "mobvista"
+        },
+        {
+            "source": "xiaomi"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_splash": [
+        {
+            "source": "xiaomi"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_splash_insert": [
+        {
+            "source": "admob"
+        },
+        {
+            "source": "mobvista"
+        },
+        {
+            "source": "xiaomi"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_video": [
+        {
+            "source": "unity"
+        },
+        {
+            "source": "mobvista"
+        },
+        {
+            "source": "adview"
+        }
+    ],
+    "priority_native": [
+        {
+            "source": "xiaomi"
+        },
+        {
+            "source": "gdt"
+        },
+        {
+            "source": "adview"
+        }
+    ]
+}

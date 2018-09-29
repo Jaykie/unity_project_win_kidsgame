@@ -1,0 +1,23 @@
+{
+    "platform": [
+        {
+            "source": "gdt",
+            "appname": "宝宝学形状颜色HD",
+            "appid": "1106586943",
+            "key_splash": "5010826903806024",
+            "key_splash_insert": "3010323963108095",
+            "key_banner": "5060823973403033",
+            "key_insert": "3010323963108095"
+        },
+        {
+            "source": "inmobi",
+            "appname": " 宝宝汉字园ios",
+            "appid": "18da910b826940e1abbb916e69dda1f2",
+            "key_splash": "1479236195364",
+            "key_splash_insert": "1479236195364",
+            "key_banner": "1523340159464",
+            "key_insert": "1479236195364",
+            "key_video": "1524347726172"
+        }
+    ]
+}

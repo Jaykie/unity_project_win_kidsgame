@@ -1,0 +1,21 @@
+{
+    "place": "none",
+    "list": [
+        {
+            "title": "",
+            "shape_list": [
+                {
+                    "id": "sanjiaoxing"
+                }
+            ]
+        },
+        {
+            "title": "",
+            "shape_list": [
+                {
+                    "id": "zhengfangxing"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+KEY,CN,EN
+STR_SETTING,设置,Setting
+STR_MORE,更多,More
+STR_APPCENTER,应用中心,App Center
+STR_LANGUAGE,语言,Language
+STR_PLACE,分类,Sort
+STR_SETTING_COMMENT,好玩赞一个!,Funny like a!
+STR_SETTING_VERSION,检查版本,Check Version
+STR_SETTING_LANGUAGE,语言,Language
+STR_SETTING_BACKGROUND_MUSIC,背景音乐,Background Music
+STR_UIVIEWALERT_YES,确定,Yes
+STR_UIVIEWALERT_NO,取消,No
+STR_UIVIEWALERT_TITLE_APP_EXIT,退出,Quit
+STR_UIVIEWALERT_MSG_APP_EXIT,是否退出游戏?,Are you sure to quit?
+STR_UIVIEWALERT_TITLE_UPDATE_VERSION,检查更新,Check update
+STR_UIVIEWALERT_MSG_NEWEST_VERSION,已经是最新版本了!,It's the latest version!
+STR_UIVIEWALERT_TITLE_USERCOMMENT,用户评论,User comments
+STR_UIVIEWALERT_MSG_USERCOMMENT,"亲,好玩,现在就去赞一个？","Pro, fun, and now to praise a?"
+STR_UIVIEWALERT_YES_USERCOMMENT,马上评分,Score now
+STR_UIVIEWALERT_NO_USERCOMMENT,残忍拒绝,Cruel refusal
+STR_UIVIEWALERT_TITLE_FIRST_USE_FUNCTION,视频,Video
+STR_UIVIEWALERT_MSG_FIRST_USE_FUNCTION,第一次使用该功能需要观看视频,The first use of this function needs to watch video
+STR_UIVIEWALERT_YES_FIRST_USE_FUNCTION,立即观看,Watch immediately
+STR_UIVIEWALERT_MSG_ADVIDEO_FAIL,”无法观看视频,请检查网络是否正常或者稍后再试!”,”Can't watch video, please check whether the network is normal or try again later!”
+STR_UIVIEWALERT_YES_ADVIDEO_FAIL,知道了,Oh I see
+STR_BTN_NOAD,去除广告,Remove AD
+STR_BTN_RESTORE_NOAD,恢复内购,Restore purchase
+STR_UIVIEWALERT_TITLE_NOAD,去除广告,Remove AD
+STR_UIVIEWALERT_MSG_NOAD,是否花12元立即去除所有广告?,Do you spend $1.99 immediately to remove all the ads?
+STR_UIVIEWALERT_YES_NOAD,确定,Yes
+STR_UIVIEWALERT_NO_NOAD,取消,No
+STR_UIVIEWALERT_TITLE_REMOVE_AD_FINISH,去除广告,Remove AD
+STR_UIVIEWALERT_MSG_REMOVE_AD_FINISH,已经为您去除了所有广告,All the ads have been removed for you
+STR_UIVIEWALERT_YES_REMOVE_AD_FINISH,知道了,Oh I see
+STR_UIVIEWALERT_TITLE_SHOP_RESTORE_BUY,恢复购买,Restore Buy
+STR_UIVIEWALERT_MSG_SHOP_RESTORE_BUY,正在恢复购买中请耐心等待!,"Please wait patiently for Restoring the purchase.!"
+STR_UIVIEWALERT_YES_SHOP_RESTORE_BUY,取消,Cancel
+STR_GOLD,金币,Gold
+STR_SHOP,商店,Shop
+STR_SHOP_TIP_AD,”小贴士:任何一个内购都将去除所有广告”,”Tip: any one purchase will remove all advertising”
+STR_SHOP_IAP_TITLE0,获取3个汉字,Get 3 words
+STR_SHOP_IAP_TITLE1,获取9个汉字,Get 9 words
+STR_SHOP_IAP_TITLE2,获取30个汉字,Get 30 words
+STR_SHOP_IAP_BTN_BUY_TITLE0,6元,$0.99
+STR_SHOP_IAP_BTN_BUY_TITLE1,12元,$1.99
+STR_SHOP_IAP_BTN_BUY_TITLE2,30元,$2.99
+STR_UIVIEWALERT_TITLE_SHOP_START_BUY,购买,Buy
+STR_UIVIEWALERT_MSG_SHOP_START_BUY,正在连接中请耐心等待!,"In the connection, please be patient!"
+STR_UIVIEWALERT_YES_SHOP_START_BUY,取消,Cancel
+STR_UIVIEWALERT_TITLE_SHOP_BUY_FAIL,购买失败,Buy failure
+STR_UIVIEWALERT_MSG_SHOP_BUY_FAIL,"购买失败或者被用户取消购买！,请检查网络或者重试","Buy failed or canceled by user, please check the network or try again"
+STR_UIVIEWALERT_YES_SHOP_BUY_FAIL,知道了,I known
+SHARE_TITLE,分享,Share
+SHARE_TITLE_WEIXIN,微信好友,WeChat
+SHARE_TITLE_WEIXINFRIEND,朋友圈,Moments
+SHARE_TITLE_QQ,QQ好友,QQ
+SHARE_TITLE_QQZONE,QQ空间,QQZone
+SHARE_TITLE_WEIBO,微博,Weibo
+SHARE_TITLE_SMS,短信,SMS
+SHARE_TITLE_EMAIL,邮箱,Email
+STR_PARENT_GATE_TITLE_HEAD,如果您是家长请按,If you are a parent please press
+STR_PARENT_GATE_TITLE_END,2秒以上,2 seconds or more
+STR_UIVIEWALERT_TITLE_ADVIDEO_TIPS,观看视频,Watch Video
+STR_UIVIEWALERT_MSG_ADVIDEO_TIPS,温馨提示该功能需要先观看视频,Kindly reminder:it needs to watch the video for this function
+STR_UIVIEWALERT_YES_ADVIDEO_TIPS,知道了,Oh I see
+BTN_ADVIDEO,观看视频,Watch Video

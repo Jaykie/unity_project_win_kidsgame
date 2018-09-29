@@ -1,0 +1,94 @@
+{
+    "place": "none",
+
+    "list": [
+        {
+            "pic": "bg0.png",
+            "color_filter":[
+                {
+                    "color_id":"gray"
+                } 
+            ]
+        },
+        {
+            "pic": "bg1.png",
+            "color_filter":[
+                {
+                    "color_id":"white"
+                },
+                {
+                    "color_id":"pink"
+                }
+                
+
+            ]
+        }
+        ,
+        {
+            "pic": "bg2.png",
+            "color_filter":[
+                {
+                    "color_id":"white"
+                },
+                {
+                    "color_id":"yellow"
+                }
+            ]
+        },
+        {
+            "pic": "bg3.png",
+            "color_filter":[
+                {
+                    "color_id":"green"
+                } 
+            ]
+        },
+        {
+            "pic": "bg4.png",
+            "color_filter":[
+                {
+                    "color_id":"white"
+                } 
+            ]
+        },
+        {
+            "pic": "bg5.png",
+            "color_filter":[
+                {
+                    "color_id":"green"
+                } 
+            ]
+        },
+        {
+            "pic": "bg6.png",
+            "color_filter":[
+                {
+                    "color_id":"green"
+                } 
+            ]
+        },
+        {
+            "pic": "bg7.png",
+            "color_filter":[
+                {
+                    "color_id":"white"
+                },
+                {
+                    "color_id":"gray"
+                }
+            ]
+        },
+        {
+            "pic": "bg8.png",
+            "color_filter":[
+                {
+                    "color_id":"yellow"
+                },
+                {
+                    "color_id":"white"
+                }
+            ]
+        }
+    ]
+     
+}

@@ -1,0 +1,90 @@
+{
+    "type": "更多应用",
+    "app": [
+        {
+            "title": "儿童写汉字",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/kidsgame/xiehanzi/xiehanzi/ad/ad_1024x500.png",
+            "PACKAGE": {
+                "ios": "com.moonma.xiehanzi",
+                "android": "com.moonma.xiehanzi"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1258503861?mt=8",
+                "android": "https://www.taptap.com/app/56016"
+            },
+            "APPID": {
+                "appstore": "1258503861",
+                "taptap": "56016"
+            }
+        },
+        {
+            "title": "儿童动物贴纸",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/animalsticker/ad_1024x500_cn.png",
+            "PACKAGE": {
+                "ios": "com.moonma.animalsticker",
+                "android": "com.moonma.animalsticker"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1230426472?mt=8",
+                "android": "https://www.taptap.com/app/46445"
+            },
+            "APPID": {
+                "appstore": "1230426472",
+                "taptap": "46445"
+            }
+        },
+        {
+            "title": "儿童农场找找乐HD",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/kidsgame/nongchang/nongchang/ad/ad_1024x500_cn.png",
+            "PACKAGE": {
+                "ios": "com.moonma.nongchangfind.pad",
+                "android": "com.moonma.nongchangfind.pad"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1269973032?mt=8",
+                "android": "https://www.taptap.com/app/58894"
+            },
+            "APPID": {
+                "appstore": "1269973032",
+                "taptap": "58894"
+            }
+        },
+        {
+            "title": "儿童动物趣味拼图",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/kidsgame/pintu/animal/ad/ad_1024x500_cn.png",
+            "PACKAGE": {
+                "ios": "com.moonma.animalpintu",
+                "android": "com.moonma.animalpintu"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1243373702?mt=8",
+                "android": "https://www.taptap.com/app/51814"
+            },
+            "APPID": {
+                "appstore": "1243373702",
+                "taptap": "51814"
+            }
+        },
+        {
+            "title": "儿童认知贴贴乐",
+            "detail": "0",
+            "pic": "http://www.mooncore.cn/moonma/kidsgame/sticker/zonghe/ad/ad_1024x500_cn.png",
+            "PACKAGE": {
+                "ios": "com.moonma.sticker-zonghe",
+                "android": "com.moonma.stickerzonghe"
+            },
+            "URL": {
+                "ios": "https://itunes.apple.com/cn/app/id1265555425?mt=8",
+                "android": "https://www.taptap.com/app/57882"
+            },
+            "APPID": {
+                "appstore": "1265555425",
+                "taptap": "57882"
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "places": [
+        {
+            "game_type": "shapecolor",
+            "title": "STR_PLACE_SHAPE",
+            "pic": ""
+        },
+        {
+            "game_type": "shapecolor",
+            "title": "STR_PLACE_COLOR",
+            "pic": ""
+        },
+        {
+            "game_type": "shapecolor",
+            "title": "STR_PLACE_SHAPE_COLOR",
+            "pic": ""
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{6b25b9db-4a9f-4379-84b3-45b589173bb5}</UniqueIdentifier>
+    </Filter>
+    <ApplicationDefinition Include="App.xaml" />
+    <ClCompile Include="App.xaml.cpp" />
+    <ClInclude Include="App.xaml.h" />
+    <Page Include="MainPage.xaml" />
+    <ClCompile Include="MainPage.xaml.cpp" />
+    <ClInclude Include="MainPage.xaml.h" />
+    <AppxManifest Include="Package.appxmanifest" />
+    <ClCompile Include="pch.cpp" />
+    <ClInclude Include="pch.h" />
+    <None Include="WSATestCertificate.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\SplashScreen.scale-200.png" />
+    <Image Include="Assets\Square150x150Logo.scale-200.png" />
+    <Image Include="Assets\Square44x44Logo.scale-200.png" />
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Image Include="Assets\StoreLogo.png" />
+    <Image Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Package.StoreAssociation.xml" />
+    <None Include="kidsgame_StoreKey.pfx" />
+  </ItemGroup>
+</Project>
