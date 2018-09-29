@@ -9,17 +9,6 @@
     "platform": [
         {
             "source": "microsoft",
-            "appname": "kids shape color",
-            "appid": "9ngqjvv1jh1x",
-            "appkey": "1000",
-            "key_splash": "0",
-            "key_splash_insert": "11389925",
-            "key_banner": "1100032470",
-            "key_insert": "1100032471",
-            "key_video": "1100032472"
-        },
-        {
-            "source": "microsoft_demo",
             "appname": "儿童游戏",
             "appid": "d25517cb-12d4-4699-8bdc-52040c712cab",
             "appkey": "1000",

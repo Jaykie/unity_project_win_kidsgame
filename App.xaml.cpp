@@ -25,9 +25,9 @@ using namespace Windows::UI::Xaml::Interop;
 /// </summary>
 App::App()
 {
-	InitializeComponent();
-	SetupOrientation();
-	m_AppCallbacks = ref new AppCallbacks();
+    InitializeComponent();
+    SetupOrientation();
+    m_AppCallbacks = ref new AppCallbacks();
 }
 
 /// <summary>
@@ -37,8 +37,8 @@ App::App()
 /// <param name="e">Details about the launch request and process.</param>
 void App::OnLaunched(LaunchActivatedEventArgs^ e)
 {
-	m_SplashScreen = e->SplashScreen;
-	InitializeUnity(e->Arguments);
+    m_SplashScreen = e->SplashScreen;
+    InitializeUnity(e->Arguments);
 }
 
 /// <summary>
@@ -48,16 +48,16 @@ void App::OnLaunched(LaunchActivatedEventArgs^ e)
 /// <param name="args"></param>
 void App::OnActivated(IActivatedEventArgs^ args)
 {
-	String^ appArgs = "";
+    String^ appArgs = "";
 
-	if (args->Kind == ActivationKind::Protocol)
-	{
-		auto eventArgs = safe_cast<ProtocolActivatedEventArgs^>(args);
-		m_SplashScreen = eventArgs->SplashScreen;
-		appArgs += String::Concat("Uri={0}", eventArgs->Uri->AbsoluteUri);
-	}
+    if (args->Kind == ActivationKind::Protocol)
+    {
+        auto eventArgs = safe_cast<ProtocolActivatedEventArgs^>(args);
+        m_SplashScreen = eventArgs->SplashScreen;
+        appArgs += String::Concat("Uri={0}", eventArgs->Uri->AbsoluteUri);
+    }
 
-	InitializeUnity(appArgs);
+    InitializeUnity(appArgs);
 }
 
 /// <summary>
@@ -67,53 +67,53 @@ void App::OnActivated(IActivatedEventArgs^ args)
 /// <param name="args"></param>
 void App::OnFileActivated(FileActivatedEventArgs^ args)
 {
-	String^ appArgs = "File=";
+    String^ appArgs = "File=";
 
-	m_SplashScreen = args->SplashScreen;
+    m_SplashScreen = args->SplashScreen;
 
-	bool firstFileAdded = false;
+    bool firstFileAdded = false;
 
-	for (auto file : args->Files)
-	{
-		if (firstFileAdded)
-		{
-			appArgs += ";";
-		}
-		else
-		{
-			firstFileAdded = true;
-		}
+    for (auto file : args->Files)
+    {
+        if (firstFileAdded)
+        {
+            appArgs += ";";
+        }
+        else
+        {
+            firstFileAdded = true;
+        }
 
-		appArgs += file->Path;
-	}
+        appArgs += file->Path;
+    }
 
-	InitializeUnity(appArgs);
+    InitializeUnity(appArgs);
 }
 
 void App::InitializeUnity(String^ args)
 {
-	ApplicationView::GetForCurrentView()->SuppressSystemOverlays = true;
+    ApplicationView::GetForCurrentView()->SuppressSystemOverlays = true;
 
-	m_AppCallbacks->SetAppArguments(args);
-	auto rootFrame = safe_cast<Frame^>(Window::Current->Content);
+    m_AppCallbacks->SetAppArguments(args);
+    auto rootFrame = safe_cast<Frame^>(Window::Current->Content);
 
-	// Do not repeat app initialization when the Window already has content,
-	// just ensure that the window is active
-	if (rootFrame == nullptr && !m_AppCallbacks->IsInitialized())
-	{
-		rootFrame = ref new Frame();
-		Window::Current->Content = rootFrame;
+    // Do not repeat app initialization when the Window already has content,
+    // just ensure that the window is active
+    if (rootFrame == nullptr && !m_AppCallbacks->IsInitialized())
+    {
+        rootFrame = ref new Frame();
+        Window::Current->Content = rootFrame;
 #if !UNITY_HOLOGRAPHIC
-		Window::Current->Activate();
+        Window::Current->Activate();
 #endif
 
-		rootFrame->Navigate(TypeName(MainPage::typeid));
-	}
+        rootFrame->Navigate(TypeName(MainPage::typeid ));
+    }
 
-	Window::Current->Activate();
+    Window::Current->Activate();
 }
 
 void App::SetupOrientation()
 {
-	Unity::SetupDisplay();
+    Unity::SetupDisplay();
 }

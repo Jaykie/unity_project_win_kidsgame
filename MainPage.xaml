@@ -12,19 +12,12 @@
     <SwapChainPanel x:Name="m_DXSwapChainPanel">
         <Grid x:Name="m_ExtendedSplashGrid" Background="#FFFFFF">
             <Image x:Name="m_ExtendedSplashImage" Source="Assets/SplashScreen.png" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-        </Grid>
-     
+        </Grid> 
+        
         <RelativePanel x:Name="m_AdPanel" Background="#FFFFFF" Margin="0,100,0,0" >
-           
-        </RelativePanel>
 
+        </RelativePanel>
+        
 
     </SwapChainPanel>
-
-
-  
-
-
-
-
 </Page>

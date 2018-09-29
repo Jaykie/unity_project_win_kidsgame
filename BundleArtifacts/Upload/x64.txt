@@ -1,2 +1,2 @@
-MainPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\x64\Release\Upload\kidsgame_1.1.0.0_x64.appx
-SymbolPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\x64\Release\Upload\kidsgame_1.1.0.0\kidsgame_1.1.0.0_x64.appxsym
+MainPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\x64\Master\Upload\kidsgame_1.1.0.0_x64_Master.appx
+SymbolPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\x64\Master\Upload\kidsgame_1.1.0.0_Master\kidsgame_1.1.0.0_x64_Master.appxsym

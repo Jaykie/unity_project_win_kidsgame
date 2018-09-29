@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Assets">
-      <UniqueIdentifier>{6b25b9db-4a9f-4379-84b3-45b589173bb5}</UniqueIdentifier>
+      <UniqueIdentifier>{fc366909-7596-4857-bbaa-0aa7e9e46998}</UniqueIdentifier>
     </Filter>
     <ApplicationDefinition Include="App.xaml" />
     <ClCompile Include="App.xaml.cpp" />
@@ -14,14 +14,27 @@
     <ClCompile Include="pch.cpp" />
     <ClInclude Include="pch.h" />
     <None Include="WSATestCertificate.pfx" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="Assets\SplashScreen.scale-200.png" />
-    <Image Include="Assets\Square150x150Logo.scale-200.png" />
-    <Image Include="Assets\Square44x44Logo.scale-200.png" />
-    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Image Include="Assets\StoreLogo.png" />
-    <Image Include="Assets\Wide310x150Logo.scale-200.png" />
+    <None Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\Square44x44Logo.targetsize-24.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </None>
+    <None Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Package.StoreAssociation.xml" />

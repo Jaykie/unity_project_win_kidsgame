@@ -9,25 +9,25 @@
 
 namespace kidsgame
 {
-	/// <summary>
-	/// Provides application-specific behavior to supplement the default Application class.
-	/// </summary>
-	ref class App sealed
-	{
-	protected:
-		virtual void OnLaunched(Windows::ApplicationModel::Activation::LaunchActivatedEventArgs^ e) override;
-		virtual void OnActivated(Windows::ApplicationModel::Activation::IActivatedEventArgs^ args) override;
-		virtual void OnFileActivated(Windows::ApplicationModel::Activation::FileActivatedEventArgs^ args) override;
+    /// <summary>
+    /// Provides application-specific behavior to supplement the default Application class.
+    /// </summary>
+    ref class App sealed
+    {
+    protected:
+        virtual void OnLaunched(Windows::ApplicationModel::Activation::LaunchActivatedEventArgs^ e) override;
+        virtual void OnActivated(Windows::ApplicationModel::Activation::IActivatedEventArgs^ args) override;
+        virtual void OnFileActivated(Windows::ApplicationModel::Activation::FileActivatedEventArgs^ args) override;
 
-	internal:
-		App();
-		inline Windows::ApplicationModel::Activation::SplashScreen^ GetSplashScreen() const { return m_SplashScreen; }
+    internal:
+        App();
+        inline Windows::ApplicationModel::Activation::SplashScreen^ GetSplashScreen() const { return m_SplashScreen; }
 
-	private:
-		UnityPlayer::AppCallbacks^ m_AppCallbacks;
-		Windows::ApplicationModel::Activation::SplashScreen^ m_SplashScreen;
+    private:
+        UnityPlayer::AppCallbacks^ m_AppCallbacks;
+        Windows::ApplicationModel::Activation::SplashScreen^ m_SplashScreen;
 
-		void InitializeUnity(Platform::String^ args);
-		void SetupOrientation();
-	};
+        void InitializeUnity(Platform::String^ args);
+        void SetupOrientation();
+    };
 }

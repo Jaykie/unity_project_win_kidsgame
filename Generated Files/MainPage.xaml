@@ -12,20 +12,13 @@
     <SwapChainPanel x:ConnectionId='1' x:Name="m_DXSwapChainPanel">
         <Grid x:ConnectionId='2' x:Name="m_ExtendedSplashGrid" Background="#FFFFFF">
             <Image x:ConnectionId='4' x:Name="m_ExtendedSplashImage" Source="Assets/SplashScreen.png" VerticalAlignment="Center" HorizontalAlignment="Center"/>
-        </Grid>
-     
+        </Grid> 
+        
         <RelativePanel x:ConnectionId='3' x:Name="m_AdPanel" Background="#FFFFFF" Margin="0,100,0,0" >
-           
-        </RelativePanel>
 
+        </RelativePanel>
+        
 
     </SwapChainPanel>
-
-
-  
-
-
-
-
 </Page>
 

@@ -1,2 +1,0 @@
-MainPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\ARM\Release\Upload\kidsgame_1.1.0.0_ARM.appx
-SymbolPackage=D:\sourcecode\unity\product\kidsgame\project_win\build\bin\ARM\Release\Upload\kidsgame_1.1.0.0\kidsgame_1.1.0.0_ARM.appxsym

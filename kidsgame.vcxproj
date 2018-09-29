@@ -79,9 +79,9 @@
     <OutDir>$(SolutionDir)build\bin\$(Platform)\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)build\obj\$(MSBuildProjectName)\$(Platform)\$(Configuration)\</IntDir>
     <AppxBundle>Always</AppxBundle>
-    <PackageCertificateThumbprint>9872E359DDB86A2BDFCA3EFB73E3E82009DA2226</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>D43C6B7A333CDC00680B63AEFED112D6F7BA4EC5</PackageCertificateThumbprint>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
-    <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundlePlatforms>x86|x64|arm</AppxBundlePlatforms>
     <AppInstallerUpdateFrequency>1</AppInstallerUpdateFrequency>
     <AppInstallerCheckForUpdateFrequency>OnApplicationRun</AppInstallerCheckForUpdateFrequency>
@@ -96,30 +96,6 @@
     <Link>
       <AdditionalDependencies>WindowsApp.lib;$(OutDir)GameAssembly.lib;$(OutDir)Common.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-      </Command>
-    </PostBuildEvent>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-      </Command>
-    </PostBuildEvent>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|ARM'">
-      </Command>
-    </PostBuildEvent>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-      </Command>
-    </PostBuildEvent>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|ARM'">
-      </Command>
-    </PostBuildEvent>
-    <PostBuildEvent>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-      </Command>
-    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
@@ -150,41 +126,27 @@
     <None Include="kidsgame_StoreKey.pfx" />
     <None Include="WSATestCertificate.pfx">
     </None>
-    <!-- <None Include="Assets\SplashScreen.scale-200.png">
+    <None Include="Assets\SplashScreen.scale-200.png">
       <DeploymentContent>true</DeploymentContent>
-       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\Square150x150Logo.scale-200.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\Square44x44Logo.scale-200.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\Square44x44Logo.targetsize-24.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\StoreLogo.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="Assets\Wide310x150Logo.scale-200.png">
       <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
-    </None> -->
-    <!-- <Image Include="Assets\LockScreenLogo.scale-200.png" /> -->
-    <Image Include="Assets\SplashScreen.scale-200.png" />
-    <Image Include="Assets\Square150x150Logo.scale-200.png" />
-    <Image Include="Assets\Square44x44Logo.scale-200.png" />
-    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
-    <Image Include="Assets\StoreLogo.png" />
-    <Image Include="Assets\Wide310x150Logo.scale-200.png" />
+    </None>
   </ItemGroup>
   <ItemGroup>
     <SDKReference Include="Microsoft.Advertising.Xaml, Version=10.0" />
