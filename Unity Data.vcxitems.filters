@@ -2,151 +2,151 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Data">
-      <UniqueIdentifier>{4cff0e60-c318-40b9-a9b5-b4ee6c6c3cfb}</UniqueIdentifier>
+      <UniqueIdentifier>{0d47a867-376c-4930-9d41-4fecdfc703ef}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono">
-      <UniqueIdentifier>{bcdbb4cc-6465-49b4-9c26-1770436362ac}</UniqueIdentifier>
+      <UniqueIdentifier>{6d4c4eec-7b64-491b-8be3-9c6efd739f99}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\2.0">
-      <UniqueIdentifier>{dea03e6d-fce2-465e-9b94-2e7c43cb571c}</UniqueIdentifier>
+      <UniqueIdentifier>{38bc13fb-57f8-4ab7-bc53-af537eeae0dc}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\2.0\Browsers">
-      <UniqueIdentifier>{9ac34122-fa9a-4b35-9595-c2f3aecf669d}</UniqueIdentifier>
+      <UniqueIdentifier>{39f6eb25-7232-4fa5-8884-be93dab4f99d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\4.0">
-      <UniqueIdentifier>{ab6cace6-982b-49d8-b42e-93edb1d5a002}</UniqueIdentifier>
+      <UniqueIdentifier>{ce3a8a98-7811-49da-b6f8-0e49abd8594d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\4.0\Browsers">
-      <UniqueIdentifier>{0a306255-2a84-4346-86ca-b8d5d51b759f}</UniqueIdentifier>
+      <UniqueIdentifier>{e28c7415-4ac2-4639-a451-e999b1f3a026}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\4.5">
-      <UniqueIdentifier>{950d1e68-247f-463d-9d91-6c515076c3f7}</UniqueIdentifier>
+      <UniqueIdentifier>{7555e952-9bf8-4620-aa00-ca1bbf88c79b}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\4.5\Browsers">
-      <UniqueIdentifier>{b63b9eca-f012-434a-b7fb-dd1a260ed78b}</UniqueIdentifier>
+      <UniqueIdentifier>{4c5a9a31-91e4-440a-b4b8-71d7a0120aae}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc\mono\mconfig">
-      <UniqueIdentifier>{d640f382-5e45-47ef-b35a-367e20fd0c09}</UniqueIdentifier>
+      <UniqueIdentifier>{dec470fe-6041-4f1f-9751-8fb8b9e71a0d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\Metadata">
-      <UniqueIdentifier>{4b7f4cf3-ae40-4cf6-93a7-c09cb58c6189}</UniqueIdentifier>
+      <UniqueIdentifier>{ce289621-b28f-4cc1-a425-575b51960971}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\Resources">
-      <UniqueIdentifier>{f1ed7060-ec75-4658-81c9-8b19e500acd4}</UniqueIdentifier>
+      <UniqueIdentifier>{9cf767c4-f32e-438d-b76a-79d816991ebc}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\Resources">
-      <UniqueIdentifier>{7e665446-566b-4ddd-8a58-8088e45c314a}</UniqueIdentifier>
+      <UniqueIdentifier>{5a878110-a706-49c3-ba96-066474daa585}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData">
-      <UniqueIdentifier>{14aadaa2-f866-4ec5-841b-8086eb1512a6}</UniqueIdentifier>
+      <UniqueIdentifier>{2879f0a9-2ae9-47dc-a381-c4d141f63593}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\adconfig">
-      <UniqueIdentifier>{13d1ef4f-fdd3-4a2d-8395-731eae732c5a}</UniqueIdentifier>
+      <UniqueIdentifier>{6b9fbacc-6210-4e19-aaf9-6d00a77c9851}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\app_center">
-      <UniqueIdentifier>{cab206d7-93a1-44fd-9bdc-6e6c5a95410a}</UniqueIdentifier>
+      <UniqueIdentifier>{3cd4ae92-e6d5-49df-a1ac-57008eb6fc8b}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common">
-      <UniqueIdentifier>{a2cba342-c1ab-4e69-b7eb-747be2d86731}</UniqueIdentifier>
+      <UniqueIdentifier>{ec92e14d-fc36-47ba-bd3b-12b1f228fa2e}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common\adconfig\cn">
-      <UniqueIdentifier>{27ef7075-00d8-475d-b022-4ed85cce283a}</UniqueIdentifier>
+      <UniqueIdentifier>{9497bd34-560e-4754-afed-6ef8f5bae2a5}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common\adconfig\other">
-      <UniqueIdentifier>{d4a854f9-0fe7-4e18-ba3e-2e2fd9b76ae8}</UniqueIdentifier>
+      <UniqueIdentifier>{e473f205-aee6-43da-b1b2-b709579d31d1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common\app_center">
-      <UniqueIdentifier>{9b03f329-0c2e-47ae-8e7f-3a00fca2fd26}</UniqueIdentifier>
+      <UniqueIdentifier>{0623a497-3378-4155-8375-25ac548e6396}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common\language">
-      <UniqueIdentifier>{aae528bd-a71b-49ff-8d71-6c78befc6977}</UniqueIdentifier>
+      <UniqueIdentifier>{4e8916e5-23c5-4f67-bbfe-4d66804c30e6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\config">
-      <UniqueIdentifier>{e753026f-952f-459d-b966-760a0c0b2d8e}</UniqueIdentifier>
+      <UniqueIdentifier>{fb9a26ff-f60e-4f01-81c6-7f8ac43aa189}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\language">
-      <UniqueIdentifier>{6a52dd24-4e5e-4019-90f9-5ccee4f05a5e}</UniqueIdentifier>
+      <UniqueIdentifier>{f96a9ca4-3c69-40c3-87bf-43492738e351}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\screenshot">
-      <UniqueIdentifier>{c809c2fb-6035-4363-9209-29ae64ff320b}</UniqueIdentifier>
+      <UniqueIdentifier>{e2b584f7-4a47-403f-8db2-81ad5aba9905}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\screenshot\bg">
-      <UniqueIdentifier>{6608e9c1-673f-4d58-be40-19b391f5ed5a}</UniqueIdentifier>
+      <UniqueIdentifier>{9affcffe-0fad-4d70-9092-cbbdc889f02c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\screenshot\icon">
-      <UniqueIdentifier>{8bb70aba-f046-4a94-92a1-b8c638928a54}</UniqueIdentifier>
+      <UniqueIdentifier>{e74466e3-b922-429d-ad70-ba795b3352e7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\screenshot\language">
-      <UniqueIdentifier>{6ef43179-9f84-4f42-ab4d-a744e1126553}</UniqueIdentifier>
+      <UniqueIdentifier>{a70a5333-1780-4849-90fa-e9ae5937a459}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\common">
-      <UniqueIdentifier>{a365cc01-006c-4b5f-bea6-0fb5738a48c1}</UniqueIdentifier>
+      <UniqueIdentifier>{38558219-f05d-4a72-ad95-54a56e83cd93}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\guanka">
-      <UniqueIdentifier>{e6227c8d-135b-4e15-b050-f693488b41e2}</UniqueIdentifier>
+      <UniqueIdentifier>{589ce8cd-96a4-48d6-a3b3-43e75bea6a71}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\banyuan">
-      <UniqueIdentifier>{d03e48a9-4c95-49dc-968f-bb897aab60a4}</UniqueIdentifier>
+      <UniqueIdentifier>{2ea89e68-b3bf-4a47-93a2-eb9f87e7c4dd}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\bg">
-      <UniqueIdentifier>{1c3914d8-af04-46dc-8bcb-e6055021b91c}</UniqueIdentifier>
+      <UniqueIdentifier>{fec41978-d5a0-468d-8c8f-449efa22010c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\changfangxing">
-      <UniqueIdentifier>{b3e02276-efb9-4f3a-9f13-3bd7efb96e47}</UniqueIdentifier>
+      <UniqueIdentifier>{d72c9caa-40c0-485a-b7a2-377e4f9f28db}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\lingxing">
-      <UniqueIdentifier>{630a5ac5-4df8-4ad5-b9a9-5af5cc55c16f}</UniqueIdentifier>
+      <UniqueIdentifier>{5694067c-8fff-4b29-9ccf-2272f9459792}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\sanjiaoxing">
-      <UniqueIdentifier>{ec883a1a-6d48-435e-8ee0-50f8bf1691d3}</UniqueIdentifier>
+      <UniqueIdentifier>{498fc3a1-5855-4df6-9562-15c54bd4fe18}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\tixing">
-      <UniqueIdentifier>{30e2a102-8276-491b-b4bb-9474f4cf8d2c}</UniqueIdentifier>
+      <UniqueIdentifier>{ca4cbc24-00d2-491c-84df-8c06e87cf8e6}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\tuoyuan">
-      <UniqueIdentifier>{a2d8a6bf-0dd2-454d-a32d-9362ae229528}</UniqueIdentifier>
+      <UniqueIdentifier>{37e2948b-87b6-4b54-a0f8-3d2973475199}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\wubianxing">
-      <UniqueIdentifier>{eacd9d84-3599-4434-91af-303019bc037d}</UniqueIdentifier>
+      <UniqueIdentifier>{cbf4e04e-4039-4c4f-a3e4-a10853760213}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\wujiaoxing">
-      <UniqueIdentifier>{e5f6d609-91a6-46dc-83ff-9402e6ccaf7d}</UniqueIdentifier>
+      <UniqueIdentifier>{3e474fc0-9431-444a-ad01-48206dae86ca}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\xinxing">
-      <UniqueIdentifier>{9807e9ff-19e7-43a3-ae24-38e1688a7a21}</UniqueIdentifier>
+      <UniqueIdentifier>{58645031-a849-4fdb-89ce-f1ba5d6111ce}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\yuan">
-      <UniqueIdentifier>{2429e1ef-a2f6-4ed6-a0e1-247656257a94}</UniqueIdentifier>
+      <UniqueIdentifier>{c0717e44-2bdc-44db-9905-62ece3790759}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image\zhengfangxing">
-      <UniqueIdentifier>{7d0e1a0a-d599-433a-9071-b5f48db0b926}</UniqueIdentifier>
+      <UniqueIdentifier>{320dde3f-2693-4a25-b3fe-ec8fc2412226}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\language">
-      <UniqueIdentifier>{8cea15e3-0f2f-4822-84db-f29d96acc4b7}</UniqueIdentifier>
+      <UniqueIdentifier>{deb26c25-e788-4bf8-a707-fe6eceb38c93}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\place">
-      <UniqueIdentifier>{b9fa2573-f415-4bdd-8de8-27a05bd1427c}</UniqueIdentifier>
+      <UniqueIdentifier>{36b21b25-1f8b-4ab4-8579-00b06f5625eb}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\place\language">
-      <UniqueIdentifier>{472f8afb-b964-465a-b262-c3e22fb0ecc9}</UniqueIdentifier>
+      <UniqueIdentifier>{c2b711d3-bb65-455d-8836-cc6e1ee7d17b}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data\etc">
-      <UniqueIdentifier>{5afb76cb-2919-4f7d-8734-aa9a06dc5b0b}</UniqueIdentifier>
+      <UniqueIdentifier>{e4274b26-71c8-43dd-9137-4a87ba83a804}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\il2cpp_data">
-      <UniqueIdentifier>{e7471dca-28fa-4f43-a8e2-32c74f48b14f}</UniqueIdentifier>
+      <UniqueIdentifier>{1b2b0bec-6f1f-47a9-8944-b1cf19d78a8d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets">
-      <UniqueIdentifier>{668f61d8-8b3d-4688-86b2-060f9647ae0c}</UniqueIdentifier>
+      <UniqueIdentifier>{b351fe9c-db0e-46c8-98c5-cc4caba1e741}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameData\common\adconfig">
-      <UniqueIdentifier>{def9da7c-269f-4aa2-8209-e2b14ef6ac46}</UniqueIdentifier>
+      <UniqueIdentifier>{4b73405d-7b4a-44a8-84cb-46833d2768d1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes">
-      <UniqueIdentifier>{7e0255fc-cac3-4ace-b3b9-8e514f79ff44}</UniqueIdentifier>
+      <UniqueIdentifier>{e5c7a4c0-2022-48ac-9223-9cc9ea18e789}</UniqueIdentifier>
     </Filter>
     <Filter Include="Data\StreamingAssets\GameRes\image">
-      <UniqueIdentifier>{115aa2dd-f611-431a-bdec-853724d8fcb3}</UniqueIdentifier>
+      <UniqueIdentifier>{64ab7776-5de9-447d-b4e0-55c0cc80ce54}</UniqueIdentifier>
     </Filter>
     <Resource Include="$(MSBuildThisFileDirectory)Resource.res" />
     <None Include="$(MSBuildThisFileDirectory)StoreManifest.xml" />
@@ -574,7 +574,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="$(OutDir)Common.dll" />
     <None Include="$(OutDir)GameAssembly.dll" />
     <None Include="$(OutDir)GameAssembly.pdb" />
     <None Include="$(OutDir)SymbolMap" />

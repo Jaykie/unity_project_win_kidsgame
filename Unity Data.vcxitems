@@ -588,9 +588,6 @@
     <Reference Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(Configuration)\UnityPlayer.winmd">
       <IsWinMDFile>true</IsWinMDFile>
     </Reference>
-    <None Include="$(OutDir)Common.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
     <None Include="$(OutDir)GameAssembly.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
