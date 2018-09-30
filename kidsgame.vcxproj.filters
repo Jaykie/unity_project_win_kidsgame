@@ -41,7 +41,7 @@
     <None Include="kidsgame_StoreKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <PRIResource Include="strings\en\resources.resw" />
     <PRIResource Include="strings\zh-cn\resources.resw" />
+    <PRIResource Include="strings\en-us\resources.resw" />
   </ItemGroup>
 </Project>
