@@ -40,4 +40,8 @@
     <None Include="Package.StoreAssociation.xml" />
     <None Include="kidsgame_StoreKey.pfx" />
   </ItemGroup>
+  <ItemGroup>
+    <PRIResource Include="strings\en\resources.resw" />
+    <PRIResource Include="strings\zh-cn\resources.resw" />
+  </ItemGroup>
 </Project>

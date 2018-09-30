@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:uap4="http://schemas.microsoft.com/appx/manifest/uap/windows10/4" xmlns:iot="http://schemas.microsoft.com/appx/manifest/iot/windows10" xmlns:mobile="http://schemas.microsoft.com/appx/manifest/mobile/windows10" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" IgnorableNamespaces="uap uap2 uap3 uap4 mp mobile iot">
-  <Identity Name="47113moonma.KidsShapeColor" Publisher="CN=1EFC1509-50FB-424F-9C6A-745B32BA3B70" Version="1.1.0.0" />
+  <Identity Name="47113moonma.KidsShapeColor" Publisher="CN=1EFC1509-50FB-424F-9C6A-745B32BA3B70" Version="1.1.1.0" />
   <mp:PhoneIdentity PhoneProductId="cb4fa914-d829-4527-a065-4654c1d743af" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Kids Shape Color</DisplayName>
+    <DisplayName>ms-resource:appDisplayName</DisplayName>
     <PublisherDisplayName>moonma</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="ouncee.App">
-      <uap:VisualElements DisplayName="Kids Shape Color" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="bounce" BackgroundColor="transparent">
+      <uap:VisualElements DisplayName="ms-resource:appDisplayName" Square150x150Logo="Assets\Square150x150Logo.png" Square44x44Logo="Assets\Square44x44Logo.png" Description="bounce" BackgroundColor="transparent">
         <uap:DefaultTile ShortName="kidsgame" Wide310x150Logo="Assets\Wide310x150Logo.png">
         </uap:DefaultTile>
         <uap:SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#FFFFFF" />
