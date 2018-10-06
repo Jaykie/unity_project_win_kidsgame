@@ -8,7 +8,7 @@
     },
     "platform": [
         {
-            "source": "microsoft",
+            "source": "microsoft_demo",
             "appname": "儿童游戏",
             "appid": "d25517cb-12d4-4699-8bdc-52040c712cab",
             "appkey": "1000",

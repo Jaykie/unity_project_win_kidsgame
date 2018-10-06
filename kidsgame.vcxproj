@@ -160,7 +160,7 @@
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <Import Project="Unity Data.vcxitems" Label="Unity Data" />
-  <Import Project="CommonRes.vcxitems" Label="CommonRes" />
+  <Import Project="../Common/CommonRes.vcxitems" Label="CommonRes" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
 </Project>

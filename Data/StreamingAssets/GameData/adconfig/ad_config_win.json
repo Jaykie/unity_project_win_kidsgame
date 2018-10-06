@@ -1,0 +1,22 @@
+{
+    "ad_source": {
+        "source_splash": "microsoft",
+        "source_splash_insert": "microsoft",
+        "source_insert": "microsoft",
+        "source_banner": "microsoft",
+        "source_video": "microsoft"
+    },
+    "platform": [
+        {
+            "source": "microsoft",
+            "appname": "kids shape color",
+            "appid": "9ngqjvv1jh1x",
+            "appkey": "1000",
+            "key_splash": "0",
+            "key_splash_insert": "11389925",
+            "key_banner": "1100032470",
+            "key_insert": "1100032471",
+            "key_video": "1100032472"
+        }
+    ]
+}
